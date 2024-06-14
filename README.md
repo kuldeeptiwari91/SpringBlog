@@ -1,2 +1,2 @@
 ## Springblog app
-This is a simple bloggging application in springboot with crud operations.
+This is a simple blogging application in spring-boot with crud operations.
